@@ -121,8 +121,8 @@ if __name__ == '__main__':
 
 ###### Отправляем почту
     # Настройки SMTP - тестовый аккаунт - можно экпериментировать
-    username = 'mymail-2019@yandex.ru'
-    password = '01012019'
+    username = 'mymail@yandex.ru'
+    password = '1111111111'
     host = 'smtp.yandex.ru'
     port = 465
     # от кого
