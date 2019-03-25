@@ -126,7 +126,7 @@ if __name__ == '__main__':
     host = 'smtp.yandex.ru'
     port = 465
     # от кого
-    mail_from = 'mymail-2019@yandex.ru'
+    mail_from = 'mymail@yandex.ru'
 
    ############ Сообщение 1 - пункт 7 (непонятно - что такое получившееся имя файла?)
 
